@@ -1,7 +1,7 @@
 # GITHUB
 
-Teste GIT
+Teste GIT!!
 
-Saiba mais
+Saiba mais!!
 
-MAis
+Mis!!
